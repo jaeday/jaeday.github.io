@@ -1,11 +1,9 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Life at Michigan - cold!
+
 ---
 
-Hello there!
-
+Hello this is my blog. I'll be talking about my stuff.
 My name is Jaehyun Shim, and I'm a sophomore at the University of Michigan, majoring in Computer Science and minoring in Mathematics.
-
-I love coding.
+I'll keep track of what I do day to day here.
